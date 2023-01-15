@@ -1,0 +1,9 @@
+numpy
+streamlit
+pillow
+streamlit-webrtc
+mediapipe
+opencv-python-headless
+pytesseract
+pandas
+pip
